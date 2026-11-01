@@ -1,0 +1,22 @@
+{
+  "sourceArtifacts": [
+    {
+      "path": ".claude/skills/ctrl-probe/SKILL.md",
+      "sha256": "d1afa058b92a3af6c36e6a6d30c6361bdf7cf7f6d7fe97fd59f7411b971690bb"
+    },
+    {
+      "path": "center-control/observe.py",
+      "sha256": "a871be9192f709f55329022e6235a1c000f833a81f97609143d050565282f7a3"
+    },
+    {
+      "path": "center-control/test_observe.py",
+      "sha256": "b18a4b51dccf58c554311ee00888f1e47e37567142697e15b233b01a8e9b9f61"
+    }
+  ],
+  "publicChanges": [
+    "Deployment/access inventory replaced by explicit local bindings",
+    "Collector TCP port and SSH alias require explicit input",
+    "Synthetic tests use documentation-only addresses",
+    "Private historical protocol/deployment records replaced by decoder-scope reference"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "CTRL Probe"
+  short_description: "센터·HILSS·CID 시험 문제를 빠르게 관측·진단"
+  default_prompt: "Use $ctrl-probe to check the current signal-controller test failure and its first observable boundary."

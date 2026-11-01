@@ -1,0 +1,6 @@
+Signal Inspection Skills
+Copyright 2026 이상엽
+
+Public adaptation of the ctrl-probe skill and center-control passive collector.
+Deployment addresses, accounts, key paths, topology and access history are replaced
+with operator-supplied local bindings. No operational credentials are distributed.
